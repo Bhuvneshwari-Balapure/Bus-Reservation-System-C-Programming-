@@ -1,0 +1,6 @@
+2025-11-02 19:12:09 - Logged in
+2025-11-02 19:12:31 - Booked: Bus 2 Seat 24 Name: Ayushi
+2025-11-02 19:12:37 - Booked: Bus 2 Seat 22 Name: Priya
+2025-11-02 19:12:50 - Booked: Bus 2 Seat 32 Name: Aadya
+2025-11-02 19:13:00 - Booked: Bus 2 Seat 21 Name: xyz
+2025-11-02 19:13:52 - Logged out
